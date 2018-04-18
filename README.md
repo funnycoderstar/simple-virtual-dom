@@ -1,5 +1,9 @@
 ## simple-virtual-dom
 
+## run
+
+please open ./example/index.html in browser
+
 ## 思路
 1.定义一个类,用来创建 DOM 元素(element.js);
 
