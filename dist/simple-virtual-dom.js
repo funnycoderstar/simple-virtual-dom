@@ -138,7 +138,7 @@
                 currentIndexPatches.push({
                     type: patch.NODE_ATTRIBUTE_MODIFY,
                     key: propKey,
-                    alue: newProps[propKey],
+                    value: newProps[propKey],
                 });
             }
         }
